@@ -3,7 +3,7 @@
 # Select pairs according to the given threshold in time and baseline
 # # used for time series analysis
 
-#Zhao Xuan, Nov 16 2023
+#Zhao Xuan, Nov 16 2023 
 
   if ($#argv != 4) then
     echo ""
